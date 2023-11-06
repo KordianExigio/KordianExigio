@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KordianExigio
+- 👀 I’m interested in web and game development, and cryptography
+- 🌱 I’m currently learning languages like JavaScript, C++ and ganme engine Godot 4
+- 📫 You can reach me by my mail KordianExigio@gmail.com
